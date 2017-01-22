@@ -18,6 +18,8 @@ A list of software to install on a new machine or on a newly installed OS (I use
 - [JRE / JDK](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
 - Shutter (for screenshots from Application Store)
 - [VirtualBox](https://www.virtualbox.org/wiki/Linux_Downloads)
+- `$ sudo apt-get install ruby-dev` to install ruby dev headers (needed to install compass below)
+- `$ gem install compass`
 
 ### Docker
 
