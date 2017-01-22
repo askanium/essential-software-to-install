@@ -13,6 +13,7 @@ A list of software to install on a new machine or on a newly installed OS (I use
 - [Sublime Text](http://www.sublimetext.com/3) / [Atom](https://atom.io/) / [Notepad++](https://notepad-plus-plus.org/)
 - IDEs: [PyCharm / WebStorm](https://www.jetbrains.com/)
 - [nodejs / npm](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions)
+- `$ sudo npm install -g gulp grunt`
 - chromium (from Application Store / repo)
 - git (`$ sudo apt-get install git`)
 - [JRE / JDK](https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
