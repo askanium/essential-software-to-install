@@ -41,3 +41,9 @@ A list of software to install on a new machine or on a newly installed OS (I use
 - MySQL-server 5.7.16 from Application Store (on Mint)
 - MySQL-workbench from Application Store (on Mint)
 - If you are using MySQL wiht python, install `sudo apt-get install libmysqlclient-dev`, otherwise `MySQL-python` package will throw an error on install (`mysql_config` not found)
+
+# Linux settings
+
+## Privacy
+
+- [disable IPv6](https://www.linuxbabe.com/ubuntu/disable-ipv6-on-ubuntu) if the VPN does not offer IPv6 leak protection
